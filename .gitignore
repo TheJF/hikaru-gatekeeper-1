@@ -28,3 +28,7 @@ pip-log.txt
 
 # Sublime Text Stuff
 *.sublime-*
+
+
+#Gatekeeper Configs
+server.cfg
